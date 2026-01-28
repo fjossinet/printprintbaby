@@ -2,7 +2,7 @@
 
 ![PrintPrintBaby Logo](assets/logo.png)
 
-A very simple Python package created for teaching purposes.
+A very simple Python package created for teaching purposes. This project allows printing text in the terminal.
 
 ## Installation
 
